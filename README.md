@@ -29,7 +29,7 @@ A secure client-server application for remote system monitoring and management u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/remote-system-monitor.git
+   git clone https://github.com/Aum-Barai/New-folder--2-
    cd remote-system-monitor
    ```
 
